@@ -26,6 +26,7 @@ public class Main {
         System.out.println("Квадраты чисел от 10 до 20: ");
         for (int i = 10; i <= 20; i++)
             System.out.print(i * i + " ");
+        System.out.println(" ");
 
         //4 задача
         int q = 1;
